@@ -1,5 +1,5 @@
 # OpenVPN VDS Manager
-# Проект архивирован. Дальнейшая разработка не планируется. Актуальный проект: AmneziaWG VDS Manager.
+# Проект архивирован. Дальнейшая разработка не планируется. Актуальный проект: [AmneziaWG VDS Manager](https://github.com/ikhak-dev/amneziawg-vds-manager).
 
 
 
