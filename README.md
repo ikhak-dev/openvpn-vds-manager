@@ -1,4 +1,11 @@
 # OpenVPN VDS Manager
+ПРОЕКТ АРХИВИРОВАН. ДАЛЬНЕЙШАЯ РАЗРАБОТКА НЕ ПЛАНИРУЕТСЯ. 
+Введётся разработка и поддержка AmneziaWG VDS Manager
+
+
+
+
+
 
 Интерактивный bash-скрипт для установки и управления OpenVPN на Ubuntu/Debian VDS/VPS.
 
